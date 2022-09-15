@@ -1,6 +1,6 @@
 ### 目录：《新生：从伪教育到自我教育》
 
-#### [【0%】序：致与我相似的你]()
+#### [【90%】序：致与我相似的你](https://github.com/Anticorianderist/de-vegetable/blob/main/%E5%BA%8F%EF%BC%9A%E8%87%B4%E4%B8%8E%E6%88%91%E7%9B%B8%E4%BC%BC%E7%9A%84%E4%BD%A0.md)
 
 #### 上篇：伪教育
 
