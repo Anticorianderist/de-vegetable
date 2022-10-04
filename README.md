@@ -12,7 +12,7 @@
 #### 下篇：自我教育
 
 + 0x00 知行
-  + [【90%】见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E5%A4%A9%E5%9C%B0.md)
+  + [见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E5%A4%A9%E5%9C%B0.md)
   + [【0%】见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E4%BC%97%E7%94%9F.md)
   + [【0%】见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E8%87%AA%E5%B7%B1.md)
 + 0x01 数学
