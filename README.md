@@ -1,6 +1,6 @@
-**近期更新：**
+**近期更新：10.9**
 
-[见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E5%A4%A9%E5%9C%B0.md)
+[见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E4%BC%97%E7%94%9F.md)
 
 ### 目录：《新生：从伪教育到自我教育》
 
@@ -17,7 +17,7 @@
 
 + 0x00 知行
   + [见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E5%A4%A9%E5%9C%B0.md)
-  + [【0%】见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E4%BC%97%E7%94%9F.md)
+  + [【50%】见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E4%BC%97%E7%94%9F.md)
   + [【0%】见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E8%87%AA%E5%B7%B1.md)
 + 0x01 数学
   + [【90%】初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/%E5%88%9D%E7%AD%89%E6%95%B0%E5%AD%A6.md)
