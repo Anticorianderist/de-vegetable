@@ -65,10 +65,6 @@
   + [【0%】阅读理解](https://github.com/Anticorianderist/de-vegetable/blob/main/%E9%98%85%E8%AF%BB%E7%90%86%E8%A7%A3.md)
   + [【0%】像硅基生命一样思考](https://github.com/Anticorianderist/de-vegetable/blob/main/%E5%83%8F%E7%A1%85%E5%9F%BA%E7%94%9F%E5%91%BD%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83.md)
   + [【0%】英语](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%8B%B1%E8%AF%AD.md)
-+ 0x07 读万卷书
-  + [【0%】围城：欠定之苦](https://github.com/Anticorianderist/book/blob/main/%E5%9B%B4%E5%9F%8E%EF%BC%9A%E6%AC%A0%E5%AE%9A%E4%B9%8B%E8%8B%A6.md)
-  + [【0%】浪潮之巅：最强见闻色](https://github.com/Anticorianderist/book/blob/main/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%EF%BC%9A%E6%9C%80%E5%BC%BA%E8%A7%81%E9%97%BB%E8%89%B2.md)
-  + [【0%】随机漫步的傻瓜：极简概率论](https://github.com/Anticorianderist/book/blob/main/%E9%9A%8F%E6%9C%BA%E6%BC%AB%E6%AD%A5%E7%9A%84%E5%82%BB%E7%93%9C%EF%BC%9A%E6%9E%81%E7%AE%80%E6%A6%82%E7%8E%87%E8%AE%BA.md)
 
 #### [【0%】后记：致与你相似的我](https://github.com/Anticorianderist/de-vegetable/blob/main/%E5%90%8E%E8%AE%B0%EF%BC%9A%E8%87%B4%E4%B8%8E%E4%BD%A0%E7%9B%B8%E4%BC%BC%E7%9A%84%E6%88%91.md)
 
