@@ -1,6 +1,4 @@
-**近期更新：10.9**
-
-[见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E4%BC%97%E7%94%9F.md)
+**近期更新** ：复制粘贴了旧文，并重新组织了文件结构；请在各个文件夹中查看原文内容， REAMME.md 的传送链接与进度条暂未更新。
 
 ### 目录：《新生：从伪教育到自我教育》
 
