@@ -14,8 +14,8 @@ REAMME.md 的传送链接与进度条暂未更新，请在各个文件夹中查�
 #### 下篇：自我教育
 
 + 0x00 知行
-  + [见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E5%A4%A9%E5%9C%B0.md)
-  + [【50%】见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E4%BC%97%E7%94%9F.md)
+  + [【done】见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/2.%20%E8%87%AA%E6%88%91%E6%95%99%E8%82%B2/0x00%20%E7%9F%A5%E8%A1%8C/1.%20%E8%A7%81%E5%A4%A9%E5%9C%B0.md)
+  + [【30%】见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/2.%20%E8%87%AA%E6%88%91%E6%95%99%E8%82%B2/0x00%20%E7%9F%A5%E8%A1%8C/2.%20%E8%A7%81%E4%BC%97%E7%94%9F.md)
   + [【0%】见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E8%87%AA%E5%B7%B1.md)
 + 0x01 数学
   + [【90%】初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/%E5%88%9D%E7%AD%89%E6%95%B0%E5%AD%A6.md)
