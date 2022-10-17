@@ -8,8 +8,8 @@ REAMME.md 的传送链接与进度条暂未更新，请在各个文件夹中查�
 
 + 0x01 [【30%】家庭教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1.%20%E4%BC%AA%E6%95%99%E8%82%B2/1.%20%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2.md)
 + 0x02 [【5%】应试教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1.%20%E4%BC%AA%E6%95%99%E8%82%B2/2.%20%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2.md)
-+ 0x03 [【0%】高等教育](https://github.com/Anticorianderist/de-vegetable/blob/main/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2.md)
-+ 0x04 [【0%】社会教育](https://github.com/Anticorianderist/de-vegetable/blob/main/%E7%A4%BE%E4%BC%9A%E6%95%99%E8%82%B2.md)
++ 0x03 [【5%】高等教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1.%20%E4%BC%AA%E6%95%99%E8%82%B2/3.%20%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2.md)
++ 0x04 [【5%】社会教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1.%20%E4%BC%AA%E6%95%99%E8%82%B2/4.%20%E7%A4%BE%E4%BC%9A%E6%95%99%E8%82%B2.md)
 
 #### 下篇：自我教育
 
