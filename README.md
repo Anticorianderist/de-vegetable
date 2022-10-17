@@ -16,9 +16,9 @@ REAMME.md 的传送链接与进度条暂未更新，请在各个文件夹中查�
 + 0x00 知行
   + [【done】见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/2.%20%E8%87%AA%E6%88%91%E6%95%99%E8%82%B2/0x00%20%E7%9F%A5%E8%A1%8C/1.%20%E8%A7%81%E5%A4%A9%E5%9C%B0.md)
   + [【30%】见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/2.%20%E8%87%AA%E6%88%91%E6%95%99%E8%82%B2/0x00%20%E7%9F%A5%E8%A1%8C/2.%20%E8%A7%81%E4%BC%97%E7%94%9F.md)
-  + [【0%】见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/%E8%A7%81%E8%87%AA%E5%B7%B1.md)
+  + [【5%】见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/2.%20%E8%87%AA%E6%88%91%E6%95%99%E8%82%B2/0x00%20%E7%9F%A5%E8%A1%8C/3.%20%E8%A7%81%E8%87%AA%E5%B7%B1.md)
 + 0x01 数学
-  + [【90%】初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/%E5%88%9D%E7%AD%89%E6%95%B0%E5%AD%A6.md)
+  + [【90%】初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/2.%20%E8%87%AA%E6%88%91%E6%95%99%E8%82%B2/0x01%20%E6%95%B0%E5%AD%A6/1.%20%E5%88%9D%E7%AD%89%E6%95%B0%E5%AD%A6.md)
   + [【90%】数学思想——以最高年薪为例](https://github.com/Anticorianderist/de-vegetable/blob/main/%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3%E2%80%94%E2%80%94%E4%BB%A5%E6%9C%80%E9%AB%98%E5%B9%B4%E8%96%AA%E4%B8%BA%E4%BE%8B.md)
   + [【0%】人生模型](https://github.com/Anticorianderist/de-vegetable/blob/main/%E4%BA%BA%E7%94%9F%E6%A8%A1%E5%9E%8B.md)
   + [【0%】正定](https://github.com/Anticorianderist/de-vegetable/blob/main/%E6%AD%A3%E5%AE%9A.md)
