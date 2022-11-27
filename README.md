@@ -1,8 +1,6 @@
 此仓库即《新生：从伪教育到自我教育》。
 
 > **电子版（PDF）**：虚位以待
-> 
-> **知乎专栏**：https://www.zhihu.com/column/c_1548462890641985536
 
 ***
 
@@ -69,7 +67,3 @@
   + [5. 英语](https://github.com/Anticorianderist/de-vegetable/blob/main/2.%20%E8%87%AA%E6%88%91%E6%95%99%E8%82%B2/0x06%20%E4%BF%A1%E6%81%AF%E7%B4%A0%E5%85%BB/5.%20%E8%8B%B1%E8%AF%AD.md)
 
 [后记：致与你相似的我](https://github.com/Anticorianderist/de-vegetable/blob/main/%E5%90%8E%E8%AE%B0%EF%BC%9A%E8%87%B4%E4%B8%8E%E4%BD%A0%E7%9B%B8%E4%BC%BC%E7%9A%84%E6%88%91.md)
-
-
-
-
