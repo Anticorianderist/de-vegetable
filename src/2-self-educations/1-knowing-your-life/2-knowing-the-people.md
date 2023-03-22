@@ -1,4 +1,4 @@
-# 见众生
+# 下篇：自我教育/1 知行/2 见众生
 
 ## 0x01 何谓“众生”
 
@@ -42,7 +42,7 @@ type classify(people 张三)
 
 在我个人的定义里，**平庸**：不是为了自我实现而活着。
 
-![Maslow's Hierarchy of Needs](https://github.com/Anticorianderist/de-vegetable/blob/main/0.%20Supportive%20Directory/Maslow%E2%80%98s%20Hierarchy%20of%20Needs.jpg)
+![Maslow's Hierarchy of Needs](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/maslow-s-hierarchy-of-needs.jpg)
 
 先分析一下这个基于[Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)的定义：
 
