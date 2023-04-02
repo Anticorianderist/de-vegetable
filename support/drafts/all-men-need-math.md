@@ -30,8 +30,6 @@ https://zhuanlan.zhihu.com/p/541547551zhuanlan.zhihu.com/p/541547551
 
 ![img](https://pica.zhimg.com/80/v2-a22a7a6d784a85241531720b6eed855b_720w.png?source=d16d100b)
 
-
-
 编辑切换为居中
 
 添加图片注释，不超过 140 字（可选）
@@ -75,22 +73,17 @@ https://zhuanlan.zhihu.com/p/541547551zhuanlan.zhihu.com/p/541547551
 ![img](https://picx.zhimg.com/80/v2-755760a59ce76ff4206ca909ea251716_720w.jpeg?source=d16d100b)
 
 
-
 编辑切换为居中
 
 添加图片注释，不超过 140 字（可选）
 
 ### 2. 顶配版“功不唐捐”
 
- 
-
 从这个角度看，  是不是最廉价的优秀品质？
 
 ### 3. 学习曲线
 
 ![img](https://pic1.zhimg.com/80/v2-e793f3f291c21526d509ac1ccc14394c_720w.png?source=d16d100b)
-
-
 
 编辑切换为居中
 
@@ -106,15 +99,9 @@ https://zhuanlan.zhihu.com/p/541547551zhuanlan.zhihu.com/p/541547551
 
 ### 1. 求而不得【超定】
 
- 
-
 ### 2. 求而得【正定】
 
- 
-
 ### 3. 不求而得【欠定】
-
- 
 
 ## 四、绝对正确性
 

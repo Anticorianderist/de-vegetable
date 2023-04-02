@@ -24,7 +24,7 @@
 
 ## 0x02 人的分类
 
-```c++
+```C
 type classify(people 张三)
 {
     if (张三.自我实现 == false) return 平庸;
@@ -42,7 +42,7 @@ type classify(people 张三)
 
 在我个人的定义里，**平庸**：不是为了自我实现而活着。
 
-![Maslow's Hierarchy of Needs](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/maslow-s-hierarchy-of-needs.jpg)
+![maslow-s-hierarchy-of-needs](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/maslow-s-hierarchy-of-needs.jpg)
 
 先分析一下这个基于[Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)的定义：
 
@@ -102,7 +102,7 @@ type classify(people 张三)
 
 引用一段**唯物史观**的内容：按照个人对社会历史起作用的程度和方式的不同，可以区分为普通个人和历史人物。有的人的作用小些，可称为“**普通个人**”，他们对社会发展贡献的总和构成了人民群众创造历史的活动；有的人的作用大些，可称为“**历史人物**”。按其发挥作用的性质，历史人物有些起推动历史前进的进步作用；有些起阻碍历史前进的反动作用。**杰出人物**是历史人物中对推动历史发展作出重要贡献或起重要作用的人。在历史发展进程中，新的历史任务往往是由具有进步意义的历史人物首先发现或提出来的。但是，**历史人物不管在历史上发挥什么样的作用，都要受到社会发展客观规律的制约，而不能决定和改变历史发展的总进程和总方向**。
 
-读读唯物史观，想想英雄史观与群众史观谁更靠谱。假如依然立场不明，再读读[Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)的书，亦或是“天地万顷，只取一亩深耕”（见下篇：自我教育/0x00 知行/1. 见天地），相信不难读懂平凡与伟大的界限。
+读读唯物史观，想想英雄史观与群众史观谁更靠谱。假如依然立场不明，再读读[Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)的书，亦或是“天地万顷，只取一亩深耕”（见下篇：自我教育/1 知行/1 见天地），相信不难读懂平凡与伟大的界限。
 
 ## 0x03 我的阅人之路
 

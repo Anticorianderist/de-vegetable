@@ -27,13 +27,17 @@
 
 时间淘汰了所有经不起考验的人事物，留下了一部人类文明史。在岁月史书里，有“天地”，有“众生”，唯独没有“自己”。按照前一篇文章所述，如果你既努力地自我奋斗，又赶上了历史进程，成为了伟大的人，那么可以在历史中留下属于自己的篇章；如果你以正确的打开方式自我奋斗，但没有遇到时代的风口，只是一个平凡的人，也可以在历史中留下点点足迹；如果你度过了碌碌无为的一生，便成为了统计数字的一份子。**所谓无我之境，指的是不偏不倚的人类文明史评价一个人的方式，在“天地”中评价，在“众生”中评价**。
 
-以[王小波](https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E5%B0%8F%E6%B3%A2)和[Wang Xiaobo](https://en.wikipedia.org/wiki/Wang_Xiaobo)为例，
+以王小波和[Wang Xiaobo](https://en.wikipedia.org/wiki/Wang_Xiaobo)为例，
 
 ### 1. “见天地”与自然属性
 
-> **王小波**（1952年5月13日－1997年4月11日），祖籍[四川](https://zh.wikipedia.org/zh-hans/%E5%9B%9B%E5%B7%9D%E7%9C%81)[渠县](https://zh.wikipedia.org/zh-hans/%E6%B8%A0%E5%8E%BF)，出生于[北京](https://zh.wikipedia.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%B8%82)，[中华人民共和国](https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)作家。年轻时在云南农场当过[知青](https://zh.wikipedia.org/zh-hans/%E7%9F%A5%E8%AF%86%E9%9D%92%E5%B9%B4)，[插过队](https://zh.wikipedia.org/zh-hans/%E4%B8%8A%E5%B1%B1%E4%B8%8B%E4%B9%A1%E8%BF%90%E5%8A%A8)，做过工人、老师。1978年至1982年在[中国人民大学](https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6)学习。1984年前往[美国](https://zh.wikipedia.org/zh-hans/%E7%BE%8E%E5%9B%BD)留学。1988年获[匹兹堡大学](https://zh.wikipedia.org/zh-hans/%E5%8C%B9%E8%8C%B2%E5%A0%A1%E5%A4%A7%E5%AD%B8)硕士学位。后任教于[北京大学](https://zh.wikipedia.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6)和[中国人民大学](https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6)。1992年后开始成为自由撰稿人。1997年4月11日因心脏病突发逝世于北京。
+> **王小波**（1952年5月13日－1997年4月11日），祖籍四川，出生于北京，中华人民共和国作家。年轻时在云南农场当过知青，插过队，做过工人、老师。1978年至1982年在中国人民大学学习。1984年前往美国留学。1988年获匹兹堡大学硕士学位。后任教于北京大学和中国人民大学。1992年后开始成为自由撰稿人。1997年4月11日因心脏病突发逝世于北京。
+> 
+> ——维基百科/王小波，访问时间：2023-02-25。
 
 > On May 13, 1952, Wang Xiaobo was born in a family of intellectuals in Beijing. From 1968 to 1970, he was transferred to Yunnan Farm as an "Educated Youth". In 1971, he jumped to the team in Muping District, Yantai City, Shandong Province, and later became a private teacher. In 1972, he worked in Beijing Niujie Teaching Instrument Factory, and in 1974 he worked in Beijing Xicheng District Semiconductor Factory. This period of working life is the writing background of his novels such as "Love in Revolutionary Period". In 1977, he met and fell in love with Li Yinhe who was the editor of Guangming Daily. In 1980, Wang Xiaobo and Li Yinhe married. In the same year, he published his debut work "Earth Forever". Entered the Department of Trade and Economics of Renmin University of China in 1978, with a bachelor's degree. Studying major in trade economics and commodity science. In 1982, he worked as a teacher at Renmin University of China, when Wang Xiaobo began to write "The Golden Age". In 1968, he began to try to write in Yunnan Corps. This is the writing background of "The Golden Age" and the inspiration for his debut work "The Endlessness". In 1984, he studied at the Center for East Asian Studies at the University of Pittsburgh and received a master's degree. He began to write novels based on the legend of Tang Dynasty, during which he got the guidance of Mr. Xu Zhuoyun. While studying in the United States, Wang Xiaobo traveled all over the United States, and used his summer vacation in 1986 to travel to the countries of Western Europe. He returned to China in 1988 and served as a lecturer in the Department of Sociology of Peking University. In 1991, he served as a lecturer in the Accounting Department of Renmin University of China. He has been a freelance writer since 1992. His only screenplay "East Palace West Palace" won the Best Screenplay Award at the Argentine International Film Festival and was nominated for the 1997 Cannes International Film Festival. Passed away in Beijing on April 11, 1997 (after autopsy, it was confirmed that the cause of death was a heart attack). Since then, his works have become popular all over the world, and his style has become the target of countless youths to imitate.
+> 
+> ——Wikipedia/Wang Xiaobo, accessed: 2023-02-25.
 
 - 哲学：a family of intellectuals（王小波的父亲是逻辑学家）。
 - 经济学：the Department of Trade and Economics。
@@ -53,21 +57,21 @@
 
 关于王小波的评价：
 
-- 中国当代著名作家[王蒙](https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E8%92%99_(%E4%BD%9C%E5%AE%B6))评点王小波说：“王小波是个很有思想的人，我对他充满哲理的散文、论文都很有兴趣。但是对于他的小说，说老实话，我没有读完，因为他的风格不大对我的胃口。”
-- 华东师范大学中文系教授、青年评论家[黄平](https://zh.wikipedia.org/zh-hans/%E9%BB%84%E5%B9%B3)：“（王小波）戏谑美学，一代绝唱”。
-- [高晓松](https://zh.wikipedia.org/zh-hans/%E9%AB%98%E6%99%93%E6%9D%BE)把他当成“神一样的存在”。
-- [冯唐](https://zh.wikipedia.org/zh-hans/%E5%86%AF%E5%94%90_(%E4%BD%9C%E5%AE%B6))说他是“一个奇迹”、“一个好得不得了的开始”。
-- [《南方周末》](https://zh.wikipedia.org/zh-hans/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB)评价："如果人们觉得王小波特立独行，那么也许是这个社会太不正常了。同样可以粗暴地说，王小波的意义不在于特立独行，而在于人性的正常。"
+- 中国当代著名作家王蒙评点王小波说：“王小波是个很有思想的人，我对他充满哲理的散文、论文都很有兴趣。但是对于他的小说，说老实话，我没有读完，因为他的风格不大对我的胃口。”
+- 华东师范大学中文系教授、青年评论家黄平：“（王小波）戏谑美学，一代绝唱”。
+- 高晓松把他当成“神一样的存在”。
+- 冯唐说他是“一个奇迹”、“一个好得不得了的开始”。
+- 《南方周末》评价："如果人们觉得王小波特立独行，那么也许是这个社会太不正常了。同样可以粗暴地说，王小波的意义不在于特立独行，而在于人性的正常。"
 
 王小波的家庭：
 
-- 父亲：[王方名](https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E6%96%B9%E5%90%8D)（原籍四川省渠县，逻辑学家，中国人民大学教授）
+- 父亲：王方名（原籍四川省渠县，逻辑学家，中国人民大学教授）
 - 母亲：宋华（原籍山东省牟平县，教育部干部）
 - 大姐：王小芹
 - 二姐：王征
 - 兄：王小平
 - 弟：王晨光
-- 妻子：[李银河](https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E9%93%B6%E6%B2%B3)
+- 妻子：李银河
 
 同样地，“见众生”指的是诸如王蒙、《南方周末》、整个家庭的社交关系；社会属性指的是每个人归于他人的部分。换言之，每个人与“众生”有关的所有组成部分即为社会属性。因此，“见自己”的另一个重要组成部分是见“众生”的“自己”。
 
@@ -127,7 +131,7 @@
 于是，人生的可能性如下：
 
 - 我可能成为职业作家。
-- 现在的我爱极了[Rewrite The Stars](https://www.bilibili.com/video/BV1nW411x7bw)，但以后未必。
+- 现在的我非常喜欢[Rewrite The Stars](https://www.bilibili.com/video/BV1nW411x7bw)，但以后未必。
 - 我可以拿到任何学科的博士学位。
 - 爱自己，爱到连变帅的动力都没有。
 
