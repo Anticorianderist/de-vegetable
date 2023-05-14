@@ -1,4 +1,4 @@
-# 从零到一：《新生：从伪教育到自我教育》
+# The ZERO2ONE.md of de-vegetable
 
 ## 0x01 目标
 
