@@ -1,4 +1,4 @@
-# The ZERO2ONE.md of de-vegetable
+# The ZERO2ONE of de-vegetable
 
 ## 0x01 目标
 

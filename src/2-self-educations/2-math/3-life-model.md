@@ -2,7 +2,7 @@
 
 如果看完了[《职业探索与选择》](https://www.xuetangx.com/course/THU07111000433/14768573)，你也许对一个名词有印象：生涯彩虹图。
 
-![life-career-rainbow](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/life-career-rainbow.jpg)
+![life-career-rainbow.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/life-career-rainbow.jpg)
 
 这张图的要素非常多：
 

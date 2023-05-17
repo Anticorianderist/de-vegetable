@@ -1,61 +1,60 @@
-# The REFERENCE.md of de-vegetable
+# The REFERENCES of de-vegetable
 
-1. https://www.bilibili.com/video/BV1sZ4y1f7TC
-2. https://www.bilibili.com/video/BV12V411J7Xw
-3. https://book.douban.com/subject/34461199/
-4. https://en.wikipedia.org/wiki/Schema_(psychology)
-5. http://www.houxiaodi.com/assets/misc/manual.pdf
-6. https://movie.douban.com/subject/30151530/
-7. https://survivesjtu.gitbook.io/survivesjtumanual/
-8. http://www.houxiaodi.com/
-9. https://movie.douban.com/subject/6874741/
-10. https://movie.douban.com/subject/35427471/
-11. https://book.douban.com/subject/1974029/
-12. https://movie.douban.com/subject/26592971/
-13. https://yz.chsi.com.cn/zyk/
-14. https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
-15. https://en.wikipedia.org/wiki/Critical_thinking
-16. https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb
-17. http://bboczeng.blogspot.com/2013/02/blog-post.html
-18. https://space.bilibili.com/697166795/
-19. https://en.wikipedia.org/wiki/Linus_Torvalds
-20. https://book.douban.com/subject/26787299/
-21. https://book.douban.com/subject/34461199/
-22. https://twitter.com/bboczeng
-23. https://book.douban.com/subject/26342533/
-24. https://www.xuetangx.com/course/THU08091000278/5881531
-25. https://movie.douban.com/subject/1291561/
-26. https://movie.douban.com/subject/26818263/
-27. https://youtu.be/NVx949129XE
-28. https://movie.douban.com/subject/27186619/
-29. https://www.xuetangx.com/course/THU04011000334/14767483
-30. https://en.wikipedia.org/wiki/OSI_model
-31. https://www.zhihu.com/question/22337430/answer/21077882
-32. https://movie.douban.com/subject/2210001/
-33. https://movie.douban.com/subject/3821067/
-34. https://en.wikipedia.org/wiki/Temple_of_Apollo_(Delphi)
-35. https://www.cyberpunk.net/
-36. https://en.wikipedia.org/wiki/Wang_Xiaobo
-37. https://www.bilibili.com/video/BV1nW411x7bw
-38. https://en.wikipedia.org/wiki/Self-fulfilling_prophecy
-39. https://www.xuetangx.com/course/THU07111000416/5881427
-40. https://www.bilibili.com/video/BV1Sb41137My
-41. https://en.wikipedia.org/wiki/Reduction_(complexity)
-42. https://www.xuetangx.com/course/THU07111000433/14768573
-43. https://book.douban.com/subject/34947576/
-44. https://www.zxx.edu.cn/
-45. https://en.wikipedia.org/wiki/Logic
-46. https://book.douban.com/subject/1277169/
-47. https://github.com/Anticorianderist/blog/blob/main/6-dedust/reconciliation-the-anxiety-of-failure.md
-48. https://www.zhihu.com/question/39501051/answer/83028671
-49. https://en.wikipedia.org/wiki/Curse_of_knowledge
-50. https://zhuanlan.zhihu.com/p/362392710
-51. https://www.zhihu.com/question/52178718/answer/791229509
-52. https://zhuanlan.zhihu.com/p/414009313
-53. https://en.wikipedia.org/wiki/Taylor_series
-54. https://en.wikipedia.org/wiki/Mean_value_theorem
-55. https://book.douban.com/subject/1255625/
-56. https://en.wikipedia.org/wiki/Archimedes
-57. https://movie.douban.com/subject/4920528/
-58. https://en.wikipedia.org/wiki/White_Album_2
-59. https://en.wikipedia.org/wiki/Butterfly_effect
+1. [Anticorianderist《和解：求而不得的焦虑》](https://github.com/Anticorianderist/blog/blob/main/src/6-dedust/reconciliation-the-anxiety-of-failure.md)
+2. [哔哩哔哩：徐云流浪中国](https://space.bilibili.com/697166795/)
+3. [Cyberpunk 2077](https://www.cyberpunk.net/)
+4. [《大明王朝1566》](https://movie.douban.com/subject/2210001/)
+5. [《坟》](https://book.douban.com/subject/1974029/)
+6. [格非《江南》三部曲](https://book.douban.com/subject/34461199/)
+7. [《古今数学思想（一）》](https://book.douban.com/subject/1277169/)
+8. [《国家宝藏》第一季](https://movie.douban.com/subject/27186619/)
+9. [国家中小学智慧教育平台](https://www.zxx.edu.cn/)
+10. [胡德夫《一幅画》](https://youtu.be/NVx949129XE)
+11. [互联网的庸众](http://bboczeng.blogspot.com/2013/02/blog-post.html)
+12. [金庸《天龙八部》](https://book.douban.com/subject/1255625/)
+13. [《九零后》](https://movie.douban.com/subject/35427471/)
+14. [《朗读者》第一季](https://movie.douban.com/subject/26818263/)
+15. [留下来的花，有百般开法](https://www.bilibili.com/video/BV1sZ4y1f7TC)
+16. [卢梭《忏悔录》](https://book.douban.com/subject/26787299/)
+17. [《那些年，我們一起追的女孩》](https://movie.douban.com/subject/4920528/)
+18. [《千と千尋の神隠し》](https://movie.douban.com/subject/1291561/)
+19. [Rewrite The Stars (The Greatest Showman)](https://www.bilibili.com/video/BV1nW411x7bw)
+20. [Rick and Morty/Season 3](https://movie.douban.com/subject/26592971/)
+21. [《上海交通大学学生生存手册》](http://www.houxiaodi.com/assets/misc/manual.pdf)
+22. [《上海交通大学学生生存手册（新版）》](https://survivesjtu.gitbook.io/survivesjtumanual/)
+23. [Twitter: bboczeng](https://twitter.com/bboczeng)
+24. [王小波《黄金时代》](https://book.douban.com/subject/34947576/)
+25. [Wikipedia/Archimedes](https://en.wikipedia.org/wiki/Archimedes)
+26. [Wikipedia/Butterfly effect](https://en.wikipedia.org/wiki/Butterfly_effect)
+27. [Wikipedia/Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
+28. [Wikipedia/Curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
+29. [Wikipedia/Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+30. [Wikipedia/Logic](https://en.wikipedia.org/wiki/Logic)
+31. [Wikipedia/Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+32. [Wikipedia/Mean value theorem](https://en.wikipedia.org/wiki/Mean_value_theorem)
+33. [Wikipedia/Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+34. [Wikipedia/OSI model](https://en.wikipedia.org/wiki/OSI_model)
+35. [Wikipedia/Reduction (complexity)](https://en.wikipedia.org/wiki/Reduction_(complexity))
+36. [Wikipedia/Schema (psychology)](https://en.wikipedia.org/wiki/Schema_(psychology))
+37. [Wikipedia/Self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy)
+38. [Wikipedia/Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
+39. [Wikipedia/Temple of Apollo (Delphi)](https://en.wikipedia.org/wiki/Temple_of_Apollo_(Delphi))
+40. [Wikipedia/Wang Xiaobo](https://en.wikipedia.org/wiki/Wang_Xiaobo)
+41. [Wikipedia/White Album 2](https://en.wikipedia.org/wiki/White_Album_2)
+42. [《无问西东》](https://movie.douban.com/subject/6874741/)
+43. [Xiaodi Hou](http://www.houxiaodi.com/)
+44. [西南联大](https://movie.douban.com/subject/30151530/)
+45. [学堂在线：大数据技术与应用](https://www.xuetangx.com/course/THU08091000278/5881531)
+46. [学堂在线：经典与思考——人文清华大师面对面](https://www.xuetangx.com/course/THU04011000334/14767483)
+47. [学堂在线：心理学概论](https://www.xuetangx.com/course/THU07111000416/5881427)
+48. [学堂在线：职业探索与选择](https://www.xuetangx.com/course/THU07111000433/14768573)
+49. [许立志《新的一天》](https://book.douban.com/subject/26342533/)
+50. [研招网/专业知识库](https://yz.chsi.com.cn/zyk/)
+51. [一代宗師](https://movie.douban.com/subject/3821067/)
+52. [一生细读一本书](https://www.bilibili.com/video/BV12V411J7Xw)
+53. [张飞：俺也一样](https://www.bilibili.com/video/BV1Sb41137My)
+54. [知乎/包遵信：数学学到什么程度可以进行下一部分的学习了？](https://www.zhihu.com/question/39501051/answer/83028671)
+55. [知乎/北冥乘海生：25 岁做什么，可在 5 年后受益匪浅？](https://www.zhihu.com/question/52178718/answer/791229509)
+56. [知乎/动机在杭州：若远离酒色，怎么能享受生活的乐趣？](https://www.zhihu.com/question/22337430/answer/21077882)
+57. [知乎/弗兰克扬：逃不掉的安排定律](https://zhuanlan.zhihu.com/p/362392710)
+58. [知乎/李沐：用随机梯度下降来优化人生](https://zhuanlan.zhihu.com/p/414009313)

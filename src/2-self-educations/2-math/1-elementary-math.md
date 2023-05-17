@@ -10,7 +10,7 @@
 
 举个例子：
 
-![log-excerpt](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/log-excerpt.png)
+![log-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/log-excerpt.png)
 
 > 截图来自于[国家中小学智慧教育平台](https://www.zxx.edu.cn/)：教材/高中/数学/北师大版/必修·第一册/Page 107。
 
@@ -137,7 +137,7 @@ $$
 
 ### 1. 小学数学
 
-![math-1-up-contents-excerpt](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/math-1-up-contents-excerpt.png)
+![math-1-up-contents-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/math-1-up-contents-excerpt.png)
 
 - 数学就在我身边
   - 知识点：数字。

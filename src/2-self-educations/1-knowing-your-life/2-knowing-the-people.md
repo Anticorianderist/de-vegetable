@@ -42,7 +42,7 @@ type classify(people 张三)
 
 在我个人的定义里，**平庸**：不是为了自我实现而活着。
 
-![maslow-s-hierarchy-of-needs](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/maslow-s-hierarchy-of-needs.jpg)
+![maslow-s-hierarchy-of-needs.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/maslow-s-hierarchy-of-needs.jpg)
 
 先分析一下这个基于[Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)的定义：
 
