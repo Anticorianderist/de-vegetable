@@ -12,4 +12,8 @@
 
 ### 3. 读
 
+来一个更加简单粗暴的建议，每天看一篇Wikipedia：today's featured article。
+
 ### 4. 写
+
+从今天开始，写英文日记。
