@@ -1,4 +1,4 @@
-# The ZERO2ONE of de-vegetable
+# The Zero2One of de-vegetable
 
 ## 0x01 Goal
 

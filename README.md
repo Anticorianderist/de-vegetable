@@ -1,4 +1,4 @@
-# The README of de-vegetable
+# The ReadMe of de-vegetable
 
 此仓库是《新生：从伪教育到自我教育》。
 
