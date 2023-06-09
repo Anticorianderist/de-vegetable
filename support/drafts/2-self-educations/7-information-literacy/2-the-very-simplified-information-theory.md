@@ -106,3 +106,11 @@
 2. 批判地看待所有人事物，填充认知体系。
 
 别无他法！别无他法！别无他法！假如你特别崇拜某个具备独立思考的人，认为他的认知体系牛逼得不行，但照抄是不可能照抄的（看完关于他的所有信息），因为认知体系的第三大组成部分“见自己”，只有本人能够将其合理化。
+
+一些至少不浪费你时间的信息源：
+
+- **清华大学**：[心理学概论 - 彭凯平 - 学堂在线](https://link.zhihu.com/?target=https%3A//www.xuetangx.com/course/THU07111000416/10318291)；[职业探索与选择 - 金蕾莅 - 学堂在线](https://link.zhihu.com/?target=https%3A//www.xuetangx.com/course/THU07111000433/10322267)；[逻辑学概论 - 陈为蓬 - 学堂在线](https://link.zhihu.com/?target=https%3A//www.xuetangx.com/course/THU12011001060/10318215) 。
+- **哈尔滨工业大学**：[自我认知与情绪管理 - 吴松全 - 学堂在线](https://link.zhihu.com/?target=https%3A//www.xuetangx.com/course/HIT01011000109/10318219)
+- **哈佛大学**：[积极心理学（幸福课） - TalBen Shahar - 哔哩哔哩](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1ga41127Zt%3Fshare_source%3Dcopy_web)
+- **耶鲁大学**：[哲学 · 死亡 - Shelly Kagan - 哔哩哔哩](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1P7411C7Gz%3Fshare_source%3Dcopy_web)
+- **其他**：[多罗西123 - 社哲讲堂 - 哔哩哔哩](https://link.zhihu.com/?target=https%3A//space.bilibili.com/375089647/channel/collectiondetail%3Fsid%3D2799%26ctype%3D0)
