@@ -20,7 +20,7 @@
 18. [Wikipedia/Howard Gardner](https://en.wikipedia.org/wiki/Howard_Gardner)
 19. [Wikipedia/Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 20. [Wikipedia/Logic](https://en.wikipedia.org/wiki/Logic)
-21. [Wikipedia/Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+21. [Wikipedia/Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
 22. [Wikipedia/Mean value theorem](https://en.wikipedia.org/wiki/Mean_value_theorem)
 23. [Wikipedia/Musicality](https://en.wikipedia.org/wiki/Musicality)
 24. [Wikipedia/Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)

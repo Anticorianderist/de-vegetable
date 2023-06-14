@@ -4,23 +4,11 @@
 
 > **主观能动性**：人的主观意识和实践活动对于客观世界的能动作用。
 
-在我个人的定义里，**众生**：具有主观能动性的所有人。
+在本书的定义中，**众生**：具有主观能动性的所有人。
 
 > **人的本质**：一切社会关系的总和。
 
-在我个人的定义里，**见众生**：了解“众生”的所有组成部分，或多或少地涉猎之。
-
-请谨慎地对号入座：
-
-- 只要交往时间足够，相信自己可以读懂任何人，包括最复杂的政治家。
-- 见自己，活出自己的独一无二。
-- 假如对“众生”的某类人感兴趣，能够有机地融入他们所在的圈子。
-- 完全理解“天下熙熙，皆为利来；天下攘攘，皆为利往”所蕴含的哲理。
-- 完全理解“各美其美，美人之美，美美与共，天下大同”所蕴含的哲理。
-- 与任何人之间，存在合适的边界。
-- 不会被PUA，而且具备PUA他人的能力。
-
-如果理解上述文字毫无压力，那你“见众生”的水平已经足以“向下兼容”我了。
+在本书的定义中，**见众生**：了解“众生”的所有组成部分，或多或少地涉猎之。
 
 ## 0x02 人的分类
 
@@ -32,25 +20,23 @@ type classify(people 张三)
     {
         if (张三.历史进程 == false) return 平凡;
         else return 伟大;
-    } 
+    }
 }
 ```
 
-### 1. 平庸与平凡
-
-本书的写作动机是什么？成为你走上平凡之路的小幸运。大家听过不少类似于“接受平凡，拒绝平庸”的叙述。那么，什么是平庸？什么是平凡？平庸与平凡的区别是什么？如何从平庸走向平凡？
-
-在我个人的定义里，**平庸**：不是为了自我实现而活着。
+### 1. 平庸和平凡
 
 ![maslow-s-hierarchy-of-needs.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/support/figures/maslow-s-hierarchy-of-needs.jpg)
 
-先分析一下这个基于[Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)的定义：
+在本书的定义中，**平庸**：不是为了自我实现而活着。
+
+首先，分析一下基于[Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)的self-actualization：
 
 > **self-actualization**: desire to become the most that one can be.
 > 
-> **自我实现**：渴望成为自己可达的、最极致的样子。
+> **自我实现**：渴望成为自己最极致的样子。
 
-这个表述还是过于笼统，我们可以从另一个角度出发：既然Maslow's Hierarchy of Needs存在先后顺序，看看下层是否一一被满足即可。不幸的是，**第三层的爱与归属感以及第四层的尊严，筛掉了绝大多数人**。要么不及格的家庭教育以畸形的爱早早地摧毁了第三层；要么不及格的应试教育、高等教育与社会教育以病态的评价体系或多或少地摧毁了第四层。
+这个翻译过于笼统。我们可以从另一个角度出发：既然Maslow's Hierarchy of Needs指定了层次，看看低层次的需求是否被一一满足即可。不幸的是，**第三层的爱和归属感以及第四层的尊严，筛掉了绝大多数人。**要么不及格的家庭教育以畸形的爱早早地摧毁了第三层；要么不及格的应试教育、高等教育与社会教育以病态的评价体系或多或少地摧毁了第四层。
 
 较之于Maslow远在1943年提出的陈年心理学模型，大家可能对模糊的自然语言更为亲切。
 
@@ -104,7 +90,7 @@ type classify(people 张三)
 
 读读唯物史观，想想英雄史观与群众史观谁更靠谱。假如依然立场不明，再读读[Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)的书，亦或是“天地万顷，只取一亩深耕”（见下篇：自我教育/1 知行/1 见天地），相信不难读懂平凡与伟大的界限。
 
-## 0x03 我的阅人之路
+## 0x03 站在不吃香菜的肩膀上
 
 线下，我读过山沟沟里的人、村里的人、乡里的人、县里的人、二线城市的人、一线城市的人，其中，最精英的群体莫过于上海交通大学电院的教师；线上，我读过[互联网的庸众](http://bboczeng.blogspot.com/2013/02/blog-post.html)、[平凡的人](https://space.bilibili.com/697166795/)、[伟大的人](https://en.wikipedia.org/wiki/Linus_Torvalds)、[真实的人](https://book.douban.com/subject/26787299/)、[虚构的人](https://book.douban.com/subject/34461199/)、[活着的人](https://twitter.com/bboczeng)、[死去的人](https://book.douban.com/subject/26342533/)。
 
