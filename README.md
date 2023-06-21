@@ -2,7 +2,7 @@
 
 此仓库是《新生：从伪教育到自我教育》。
 
-本书的**写作动机**详见《序：致与我相似的你》与《后记：致与你相似的我》。此处不再赘述。
+本书的**写作动机**详见《序：致和我相似的你》与《后记：致和你相似的我》。此处不再赘述。
 
 本书的**写作逻辑**如下：
 
@@ -18,9 +18,9 @@
 
 本书的**使用说明**如下：
 
-- 本书（包括附册《考研：有手就行》）算是一个还没有彻底失败的**老做题家**献给所有初入大学的**小做题人**的礼物。至于效用，我不想夸大海口，也不想和百无一用甚至虚伪的垃圾比烂。我可以保证以下几点：
+- 本书算是一个还没有彻底失败的**老做题家**献给所有初入大学的**小做题人**的礼物。至于效用，我不想夸大海口，也不想和百无一用甚至虚伪的垃圾比烂。我可以保证以下几点：
   - **绝对真诚**：为了被更好地传播，本书的部分内容“知有不言，言有不尽”，但她有这个世界少有的一份绝对真诚。
-  - **不容易**：你可以对比一下《序：致与我相似的你》与《后记：致与你相似的我》，对号入座，但大一新生应该迎难而上。
+  - **不容易**：你可以对比一下《序：致和我相似的你》与《后记：致和你相似的我》，对号入座，但大一新生应该迎难而上。
   - 我知道，你们这群鼠鼠的统战价值几乎为零。但**这本书会把你当人看**。
 - 本书的**进度条**见`ZERO2ONE.md`。
 - 在本书完结之前，你不妨点开`REFERENCES.md`的链接多多尝试。在这个遍布焦虑的时代里，我很难向大一新生证明“汝果欲学诗，工夫在诗外”。但是，如果跟着坏人或蠢人学，你这辈子就废了。
@@ -32,51 +32,49 @@
 
 以下是本书的**目录**：
 
-```shell
-序：致与我相似的你
+[序：致和我相似的你](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-preface-to-you-like-me.md)
 上篇：伪教育
-	1 家庭教育
-	2 应试教育
-	3 高等教育
-	4 社会教育
+1. [家庭教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/1-family-education.md)
+2. [应试教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/2-exam-oriented-education.md)
+3. [高等教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/3-higher-education.md)
+4. [社会教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/4-social-education.md)
 下篇：自我教育
-	1 知行
-		1.1 见天地
-		1.2 见众生
-		1.3 见自己
-	2 数学
-		2.1 凡人皆需数学
-		2.2 初等数学
-		2.3 人生模型
-		2.4 目标模型
-		2.5 数学与数学之外
-	3 马克思主义哲学
-		3.1 唯物论
-		3.2 两个特征
-		3.3 三大规律
-		3.4 五对范畴
-		3.5 认识论
-	4 人际关系
-		4.1 三种层次
-		4.2 三种类别
-		4.3 知所起
-		4.4 离别
-	5 异性关系
-		5.1 底层模型
-		5.2 通用版
-		5.3 女生版
-		5.4 男生版
-	6 ta山之石
-		6.1 好奇心
-		6.2 自信心
-		6.3 解耦合
-		6.4 取舍
-		6.5 美育
-	7 信息素养
-		7.1 这是最好的时代
-		7.2 极简信息论
-		7.3 阅读理解
-		7.4 英语
-		7.5 像硅基生命一样思考
-后记：致与你相似的我
-```
+1. 知行
+	1. [见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/1-knowing-the-world.md)
+	2. [见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/2-knowing-the-people.md)
+	3. [见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/3-knowing-yourself.md)
+2. 数学
+	1. 凡人皆需数学
+	2. 初等数学
+	3. 人生模型
+	4. 目标模型
+	5. 数学与数学之外
+3. 马克思主义哲学
+	1. 唯物论
+	2. 两个特征
+	3. 三大规律
+	4. 五对范畴
+	5. 认识论
+4. 人际关系
+	1. 三种层次
+	2. 三种类别
+	3. 知所起
+	4. 离别
+5. 异性关系
+	1. 底层模型
+	2. 通用版
+	3. 女生版
+	4. 男生版
+6. ta山之石
+	1. 好奇心
+	2. 自信心
+	3. 解耦合
+	4. 取舍
+	5. 美育
+7. 信息素养
+	1. 这是最好的时代
+	2. 极简信息论
+	3. 阅读理解
+	4. 英语
+	5. 像硅基生命一样思考
+后记：致和你相似的我
