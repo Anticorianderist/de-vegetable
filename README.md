@@ -48,11 +48,11 @@
    2. [见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/2-knowing-the-people.md)
    3. [见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/3-knowing-yourself.md)
 2. 数学
-   1. 凡人皆需数学
-   2. 初等数学
-   3. 人生模型
-   4. 目标模型
-   5. 数学与数学之外
+   1. [凡人皆需数学](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/1-everyone-needs-math.md)
+   2. [初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/2-elementary-math.md)
+   3. [人生模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/3-life-model.md)
+   4. [目标模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/4-goal-model.md)
+   5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/5-math-and-beyond.md)
 3. 马克思主义哲学
    1. 唯物论
    2. 两个特征
