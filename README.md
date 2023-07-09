@@ -54,7 +54,7 @@
    4. [目标模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/4-goal-model.md)
    5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/5-math-and-beyond.md)
 3. 马克思主义哲学
-   1. 唯物论
+   1. [唯物论](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/1-materialism.md)
    2. 两个特征
    3. 三大规律
    4. 五对范畴
