@@ -24,7 +24,7 @@
   - 我知道，你们这群鼠鼠的统战价值几乎为零。但**这本书会把你当人看**。
 - 本书的**进度条**见`ZERO2ONE.md`。
 - 在本书完结之前，你不妨点开`REFERENCES.md`的链接多多尝试。在这个遍布焦虑的时代里，我很难向大一新生证明“汝果欲学诗，工夫在诗外”。但是，如果跟着坏人或蠢人学，你这辈子就废了。
-- 在本书完结之前，你可以通过**邮件**（bancroft.lau@gmail.com）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
+- 在本书完结之前，你可以通过**邮件**（`bancroft.lau@gmail.com`）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
 
 若《新生：从伪教育到自我教育》对你有所帮助，请继续传递善意（**点击右上角的Star且向其ta人安利**是传递善意最基本的方式）。
 
@@ -55,7 +55,7 @@
    5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/5-math-and-beyond.md)
 3. 马克思主义哲学
    1. [唯物论](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/1-materialism.md)
-   2. 两个特征
+   2. [两个特征](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/2-two-features.md)
    3. 三大规律
    4. 五对范畴
    5. 认识论
