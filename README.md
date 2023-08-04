@@ -22,8 +22,7 @@
   - **绝对真诚**：为了被更好地传播，本书的部分内容“知有不言，言有不尽”，但她有这个世界少有的一份绝对真诚。
   - **不容易**：你可以对比一下《序：致和我相似的你》与《后记：致和你相似的我》，对号入座，但大一新生应该迎难而上。
   - 我知道，你们这群鼠鼠的统战价值几乎为零。但**这本书会把你当人看**。
-- 本书的**进度条**见`ZERO2ONE.md`。
-- 在本书完结之前，你不妨点开`REFERENCES.md`的链接多多尝试。在这个遍布焦虑的时代里，我很难向大一新生证明“汝果欲学诗，工夫在诗外”。但是，如果跟着坏人或蠢人学，你这辈子就废了。
+- 在本书完结之前，你不妨点开文章的链接多多尝试。在这个遍布焦虑的时代里，我很难向大一新生证明“汝果欲学诗，工夫在诗外”。但是，如果跟着坏人或蠢人学，你这辈子就废了。
 - 在本书完结之前，你可以通过**邮件**（`bancroft.lau@gmail.com`）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
 
 若《新生：从伪教育到自我教育》对你有所帮助，请继续传递善意（**点击右上角的Star且向其ta人安利**是传递善意最基本的方式）。
@@ -32,31 +31,31 @@
 
 以下是本书的**目录**：
 
-[序：致和我相似的你](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-preface-to-you-like-me.md)
+[序：致和我相似的你](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-preface-to-you-like-me.md)
 
 上篇：伪教育
 
-1. [家庭教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/1-family-education.md)
-2. [应试教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/2-exam-oriented-education.md)
-3. [高等教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/3-higher-education.md)
-4. [社会教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/4-social-education.md)
+1. [家庭教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-pseudo-educations/1-family-education.md)
+2. [应试教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-pseudo-educations/2-exam-oriented-education.md)
+3. [高等教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-pseudo-educations/3-higher-education.md)
+4. [社会教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-pseudo-educations/4-social-education.md)
 
 下篇：自我教育
 
 1. 知行
-   1. [见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/1-knowing-the-world.md)
-   2. [见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/2-knowing-the-people.md)
-   3. [见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/3-knowing-yourself.md)
+   1. [见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/1-knowing-your-life/1-knowing-the-world.md)
+   2. [见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/1-knowing-your-life/2-knowing-the-people.md)
+   3. [见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/1-knowing-your-life/3-knowing-yourself.md)
 2. 数学
-   1. [凡人皆需数学](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/1-everyone-needs-math.md)
-   2. [初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/2-elementary-math.md)
-   3. [人生模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/3-life-model.md)
-   4. [目标模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/4-goal-model.md)
-   5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/5-math-and-beyond.md)
+   1. [凡人皆需数学](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/1-everyone-needs-math.md)
+   2. [初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/2-elementary-math.md)
+   3. [人生模型](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/3-life-model.md)
+   4. [目标模型](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/4-goal-model.md)
+   5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/5-math-and-beyond.md)
 3. 马克思主义哲学
-   1. [唯物论](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/1-materialism.md)
-   2. [两个特征](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/2-two-features.md)
-   3. [三大规律](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/3-three-laws.md)
+   1. [唯物论](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/1-materialism.md)
+   2. [两个特征](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/2-two-features.md)
+   3. [三大规律](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/3-three-laws.md)
    4. 五对范畴
    5. 认识论
 4. 人际关系
