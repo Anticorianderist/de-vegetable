@@ -57,7 +57,7 @@ $$
 ### 4. 数学的定义
 
 > Mathematics is an area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes. These topics are represented in modern mathematics with the major subdisciplines of number theory, algebra, geometry, and analysis, respectively. There is no general consensus among mathematicians about a common definition for their academic discipline.
-> 
+>
 > ——Wikipedia/Mathematics, accessed: 2023-04-02.
 
 数学在本文中是一个简单粗暴的定义：
@@ -126,9 +126,9 @@ $$
 ### 3. 源于应试的自卑
 
 > The Pygmalion effect, or Rosenthal effect, is a psychological phenomenon in which high expectations lead to improved performance in a given area and low expectations lead to worse. The effect is named for the Greek myth of Pygmalion, the sculptor who fell so much in love with the perfectly beautiful statue he created that the statue came to life. The psychologists Robert Rosenthal and Lenore Jacobson, in their book Pygmalion in the Classroom, borrowed something of the myth by advancing the idea that teachers' expectations of their students affect the students' performance, a view that has been called into question as a result of later research findings.
-> 
+>
 > Rosenthal and Jacobson held that high expectations lead to better performance and low expectations lead to worse, both effects leading to self-fulfilling prophecy. According to the Pygmalion effect, the targets of the expectations internalize their positive labels, and those with positive labels succeed accordingly; a similar process works in the opposite direction in the case of low expectations. The idea behind the Pygmalion effect is that increasing the leader's expectation of the follower's performance will result in better follower performance. Within sociology, the effect is often cited with regard to education and social class.
-> 
+>
 > ——Wikipedia/Pygmalion effect, accessed: 2023-04-02.
 
 数学差，不是先天智商的锅，是教育的锅、是贫富差距的锅。我本来打算把本小节写得很长很长，因为应试教育所刻下的思想钢印太深。你们可以仔细回想一下，老师、父母和社会到底多么地双标：自己家的孩子；别人家的孩子。你仔细想想，普通人做题做不过别人，也许与智商无关。我从小到大，仅仅有过一个自闭症同学。除他之外，我前前后后所遇到的所有人的智商都差不多。但是，我小初高的同学的际遇千差万别；偏偏我这种远离应试教育的人走得最远。**应试教育没有培养任何人，因为它从始至终无情地筛选幸运儿，一路掐尖，将所谓的天才呈现在大众的眼前罢了。**我把本小节写得很短很短，因为我无法清除你们的自卑，也没有其他人可以清除你们的自卑。但是，有且只有一个人可以洗净所有的应试阴影，使你重获新生，那个人就是你自己。**当你愿意颤颤巍巍地触碰另一种人生，基于数学的定义、推理以及万法归宗的抽象，质疑平庸、平凡、伟大之间是否存在天然的界限，失败者的思想钢印才可能松动、乃至脱落。**
@@ -190,7 +190,7 @@ $$
 未来，在你刷短视频的时候，我这么给自己的小孩补课，或者教京沪的小学生，你怎么办？继续传承“看看别人家的孩子”、“唉，学习需要天赋”的刻板印象吗？**只要受到了优质的教育，每个人都是天才。**
 
 ### 2. 初中数学
- 
+
 初中代数：
 
 - 扩充数域：无理数。
@@ -266,8 +266,8 @@ $$
 
 不妨将上述4个式子的4个因数看作小学数学、初中数学、高中数学、本科数学，碍于数学的“连续性”，不改正小学数学的 $0.8$ ，就无法改正初中数学的 $0.6$ ；不改正初中数学的 $0.6$ ，就无法改正高中数学的 $0.1$ ；不改正高中数学的 $0.1$ ，就无法改正本科数学的 $0.0$ 。但是，在高考之后的三个月里，你甚至可以重新学一遍小初高的初等数学。不需要周考、不需要月考、理解而非计算、纠正复杂度低的过去而非死磕复杂度高的现在，人生似乎也可以被改写。
 
-### 2. 数学学到什么程度可以进行下一部分的学习了？
+### 2. 下一步
 
-https://www.zhihu.com/question/39501051/answer/83028671
+[数学学到什么程度可以进行下一部分的学习了？](https://www.zhihu.com/question/39501051/answer/83028671)
 
 举一个例子作为这篇文章的补充：多项式的次。
