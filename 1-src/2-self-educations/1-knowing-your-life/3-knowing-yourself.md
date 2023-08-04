@@ -5,7 +5,7 @@
 在本书的定义中，**自己**：自然属性与社会属性的总和。
 
 > **自然属性**：在“天地”中的位置。
-> 
+>
 > **社会属性**：在“众生”中的位置。
 
 在本书的定义中，**见自己**：以旁观者的角度，认识自己的自然属性与社会属性。
@@ -22,13 +22,17 @@
 
 ### 1. “见天地”和自然属性
 
+王小波：
+
 > **王小波**（1952年5月13日－1997年4月11日），祖籍四川渠县，出生于北京，中华人民共和国作家。年轻时在云南农场当过知青，插过队，做过工人、老师。1978年至1982年在中国人民大学学习。1984年前往美国留学。1988年获匹兹堡大学硕士学位。后任教于北京大学和中国人民大学。1992年后开始成为自由撰稿人。1997年4月11日因心脏病突发逝世于北京。
-> 
-> ——维基百科/王小波，访问时间：2023-02-25。
+>
+> ——维基百科/王小波（访问时间：2023-02-25）
+
+Wang Xiaobo：
 
 > On May 13, 1952, Wang Xiaobo was born in a family of intellectuals in Beijing. From 1968 to 1970, he was transferred to Yunnan Farm as an "Educated Youth". In 1971, he jumped to the team in Muping District, Yantai City, Shandong Province, and later became a private teacher. In 1972, he worked in Beijing Niujie Teaching Instrument Factory, and in 1974 he worked in Beijing Xicheng District Semiconductor Factory. This period of working life is the writing background of his novels such as "Love in Revolutionary Period". In 1977, he met and fell in love with Li Yinhe who was the editor of Guangming Daily. In 1980, Wang Xiaobo and Li Yinhe married. In the same year, he published his debut work "Earth Forever". Entered the Department of Trade and Economics of Renmin University of China in 1978, with a bachelor's degree. Studying major in trade economics and commodity science. In 1982, he worked as a teacher at Renmin University of China, when Wang Xiaobo began to write "The Golden Age". In 1968, he began to try to write in Yunnan Corps. This is the writing background of "The Golden Age" and the inspiration for his debut work "The Endlessness". In 1984, he studied at the Center for East Asian Studies at the University of Pittsburgh and received a master's degree. He began to write novels based on the legend of Tang Dynasty, during which he got the guidance of Mr. Xu Zhuoyun. While studying in the United States, Wang Xiaobo traveled all over the United States, and used his summer vacation in 1986 to travel to the countries of Western Europe. He returned to China in 1988 and served as a lecturer in the Department of Sociology of Peking University. In 1991, he served as a lecturer in the Accounting Department of Renmin University of China. He has been a freelance writer since 1992. His only screenplay "East Palace West Palace" won the Best Screenplay Award at the Argentine International Film Festival and was nominated for the 1997 Cannes International Film Festival. Passed away in Beijing on April 11, 1997 (after autopsy, it was confirmed that the cause of death was a heart attack). Since then, his works have become popular all over the world, and his style has become the target of countless youths to imitate.
-> 
-> ——Wikipedia/Wang Xiaobo, accessed: 2023-02-25.
+>
+> ——Wikipedia/Wang Xiaobo (accessed: 2023-02-25)
 
 - 哲学：a family of intellectuals（王小波的父亲是逻辑学家）。
 - 经济学：the Department of Trade and Economics。
@@ -74,19 +78,19 @@
 
 在“见天地”中：
 
-- **哲学**：清华大学的《逻辑学概论》，没看完；耶鲁大学的《哲学——死亡》，没看完；考研政治级别的《马克思主义哲学》。
-- **经济学**：复旦大学的《经济学原理》，没看完。
+- **哲学**：清华大学的[《逻辑学概论》](https://www.xuetangx.com/course/THU12011001060/16904967)，没看完；耶鲁大学的[《死亡》](https://oyc.yale.edu/death/phil-176)，没看完；考研政治级别的《马克思主义哲学》。
+- **经济学**：复旦大学的[《经济学原理》](https://www.xuetangx.com/course/FUDAN02011000064/1161523)，没看完。
 - **法学**：考研政治级别的《马克思主义政治经济学》。
-- **教育学**：清华大学的[《心理学概论》](https://www.xuetangx.com/course/THU07111000416/5881427)；清华大学的[《职业探索与选择》](https://www.xuetangx.com/course/THU07111000433/14768573)；哈工大的《自我认知和情绪管理》，没看完。
+- **教育学**：清华大学的[《心理学概论》](https://www.xuetangx.com/course/THU07111000416/5881427)；清华大学的[《职业探索与选择》](https://www.xuetangx.com/course/THU07111000433/16906166)；哈尔滨工业大学的[《自我认知与情绪管理》](https://www.xuetangx.com/course/HIT01011000109/16904971)，没看完。
 - **文学**：几十本经典名著。
-- **历史学**：清华大学的《大唐兴衰》。
+- **历史学**：清华大学的[《大唐兴衰》](https://www.xuetangx.com/course/THU02011000282/16906068)。
 - **理学**：末流985的“四大力学”；末流985的地球物理学。
 - **工学**：末流985的工科数学；末流985的部分电子类专业课；末流985的部分计算机类专业课；末流985的部分地学类专业课；末流985的地球物理学类专业课；考研级别的计算机学科专业基础综合、顶级985的计算机类硕士专业课。
 - **农学**：无。
 - **医学**：无。
 - **军事学**：无。
 - **管理学**：无。
-- **艺术学**：清华大学的《艺术的启示》，没看完。
+- **艺术学**：清华大学的[《艺术的启示》](https://www.xuetangx.com/course/THU08091000423/16906223)，没看完。
 
 在“见众生”中：
 
@@ -97,11 +101,13 @@
 假如读完了王小波的所有作品、读（听、看）完关于王小波的所有文本、音频、视频，你可以还原出王小波在1973-05-13的所思所想吗？
 
 > In 1972, he worked in Beijing Niujie Teaching Instrument Factory, and in 1974 he worked in Beijing Xicheng District Semiconductor Factory.
+>
+> ——Wikipedia/Wang Xiaobo (accessed: 2023-02-25)
 
 但是，王小波在[《黄金时代》](https://book.douban.com/subject/34947576/)中骗我们说（正在河边放牛）：
 
 > 那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。
-> 
+>
 > ——王小波《黄金时代》
 
 截至2023-02-25T22:38:25+08:00，这句话在微信读书上收获了81136条划线。这句话在文艺青年的金句榜上绝对名列前茅。但事实是，我们不知道，也无法还原王小波在1973-05-13的所思所想。我们“见自己”不一样。就“见自己”的**描述**而言，作为没有维基词条的无名之辈，我们仍然可以还原关于自己的、海量的细节（即过去的描述）。这导致了**可能性的差异**。就“见自己”的**结论**而言，基于“天地”、“众生”的“见自己”和普通的见自己完全是两个极端，前者对后者错。这成为了**平庸和平凡的界限**。
@@ -117,7 +123,7 @@
 基于此，人生的可能性如下：
 
 - 只有我当工程师，我的儿子才有可能当科学家，我的孙子才有可能当政治家，我的儿子的孙子才有可能当艺术家，我的孙子的孙子才有可能当哲学家。因为我爸是工人，所以我顶多当科学家，再也无法从事更加有钱有闲的职业了。
-- 我永远喜欢《海贼王》！
+- 我永远喜欢[《海贼王》](https://en.wikipedia.org/wiki/One_Piece)！
 - 到底是保研，还是跨考？万一放弃了保研资格而且跨考失败，我的人生还有救吗？
 
 #### B. 24岁的我：基于“天地”、“众生”的见自己
@@ -142,7 +148,7 @@
 
 换言之，过去的描述和未来的结论混杂，以致于**未来的结论成为了决定未来的前提**，进而陷入了[自我实现的预言](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy)。
 
-太少又从何说起呢？或者，多少算多？多少算少？举一个形象的例子，[俺也一样](https://www.bilibili.com/video/BV1Sb41137My)。“见天地”、“见众生”多，**对自己的描述**也多。
+太少又从何说起呢？或者，多少算多？多少算少？举一个形象的例子，[俺也一样](https://www.bilibili.com/video/BV1Sb41137My/)。“见天地”、“见众生”多，**对自己的描述**也多。
 
 过去的描述越对、越多，未来的可能性越对、越多。这是显然的。
 
@@ -159,7 +165,7 @@
 1. 学完清华大学的[《职业探索与选择》](https://www.xuetangx.com/course/THU07111000433/14768573)。
 2. 带着“见天地”、“见众生”、“见自己”的意识，广泛地尝试和积累，在磕磕绊绊的本科生涯中收获不负韶华的青春。
 
-> 关于本书的任何问题，欢迎在PDF版本发布之前提交issue；关于平凡之路的任何问题均可以发送至bancroft.lau@gmail.com，超过2000+字必回复（此门槛随时可能变更，以当前版本为准）。
+> 关于本书的任何问题，欢迎在PDF版本发布之前提交issue；关于平凡之路的任何问题均可以发送至`bancroft.lau@gmail.com`，超过2000+字必回复（此门槛随时可能变更，以当前版本为准）。
 
 ## 0x04 见自己の必要条件
 
