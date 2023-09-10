@@ -4,17 +4,17 @@
 
 > **副标题**：一个人的乌托邦
 
-本书的**写作动机**见《序：致和我相似的你》与《后记：致和你相似的我》。此处不再赘述。
+本书的**写作动机**见《序：致和我相似的你》和《后记：致和你相似的我》。此处不赘述。
 
 本书的**写作逻辑**如下：
 
 - **序**：本书所面向的**读者**。
-- **伪教育**：教育的**实然**。从时间线上，家庭教育 → 应试教育 → 高等教育 → 社会教育。
-- **自我教育**：作为一个通过**自我教育**逆统计规律性成长的样本，我认为“教育的**应然**”是什么。
+- **伪教育**：教育的**实然**。从时间线上，家庭教育 ... 应试教育 ... 高等教育 ... 社会教育。
+- **自我教育**：作为一个通过**自我教育**逆统计规律成长的样本，我认为“教育的**应然**”是什么。
   - **知行**：贯穿本科的**唯一主线**。从静态的“天地”，到动态的“众生”，最后到无偏的“自己”。
-  - **数学与马克思主义哲学**：“天地”最重要的两个组成部分。它们既是“见天地”的有力武器，又是“见天地”的检验标准。前者提供了**足够长的因果链**；后者提供了**足够强的解析力**。
-  - **人际关系与异性关系**：“众生”最重要的两个组成部分。它们既是“见众生”的有力武器，又是“见众生”的检验标准。前者提供了**足以玩转整个人类社会的框架**；后者提供了**足以归并所有两性关系的模型**。
-  - **ta山之石**：一些重要的**品质**和**能力**。
+  - **数学和马克思主义哲学**：“天地”最重要的两个组成部分。它们既是“见天地”的有力武器，又是“见天地”的检验标准。前者提供了**足够长的因果链**；后者提供了**足够强的解析力**。
+  - **人际关系和异性关系**：“众生”最重要的两个组成部分。它们既是“见众生”的有力武器，又是“见众生”的检验标准。前者提供了**足以玩转整个人类社会的框架**；后者提供了**足以归并所有两性关系的模型**。
+  - **它山之石**：一些重要的**品质**和**能力**。
   - **信息素养**：一些关于**21世纪及未来**的**认知**和**技能**。
 - **后记**：本书所面向的**核心读者**。
 
@@ -22,14 +22,14 @@
 
 - 本书算是一个还没有彻底失败的**老做题家**献给所有初入大学的**小做题人**的礼物。至于效用，我不想夸大海口，也不想和百无一用甚至虚伪的垃圾比烂。我可以保证以下几点：
   - **绝对真诚**：为了被更好地传播，本书的部分内容“知有不言，言有不尽”，但她有这个世界少有的一份绝对真诚。
-  - **不容易**：你可以对比一下《序：致和我相似的你》与《后记：致和你相似的我》，对号入座，但大一新生应该迎难而上。
+  - **不容易**：你可以对比一下《序：致和我相似的你》和《后记：致和你相似的我》，对号入座，但大一新生应该迎难而上。
   - 我知道，你们这群鼠鼠的统战价值几乎为零。但**这本书会把你当人看**。
 - 在本书完结之前，你不妨点开文章的链接多多尝试。在这个遍布焦虑的时代里，我很难向大一新生证明“汝果欲学诗，工夫在诗外”。但是，如果跟着坏人或蠢人学，你这辈子就废了。
 - 在本书完结之前，你可以通过**邮件**（`bancroft.lau@gmail.com`）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
 
 若《新生：从伪教育到自我教育》对你有所帮助，请继续传递善意（**点击右上角的Star且向其ta人安利**是传递善意最基本的方式）。
 
-> **电子版（PDF）**：虚位以待
+> **PDF**：虚位以待
 
 以下是本书的**目录**：
 
@@ -52,14 +52,14 @@
    1. [凡人皆需数学](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/1-everyone-needs-math.md)
    2. [初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/2-elementary-math.md)
    3. [人生模型](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/3-life-model.md)
-   4. [目标模型](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/4-goal-model.md)
-   5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/5-math-and-beyond.md)
+   4. 目标模型
+   5. 数学与数学之外
 3. 马克思主义哲学
-   1. [唯物论](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/1-materialism.md)
-   2. [两个特征](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/2-two-features.md)
-   3. [三大规律](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/3-three-laws.md)
-   4. [五对范畴](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/4-five-contradictions.md)
-   5. [认识论](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/5-epistemology.md)
+   1. 唯物论
+   2. 两个特征
+   3. 三大规律
+   4. 五对范畴
+   5. 认识论
 4. 人际关系
    1. 三种层次
    2. 三种类别
