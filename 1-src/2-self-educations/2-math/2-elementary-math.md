@@ -71,7 +71,7 @@ ta们每一步都学得非常好，既不会搞错 $\pi$ 是不是字母，也�
 
 ![log-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/log-excerpt.png)
 
-> 截图来自于[国家中小学智慧教育平台](https://www.zxx.edu.cn/)：教材/高中/数学/北师大版/必修·第一册/Page 107。
+> 截图来自于国家中小学智慧教育平台：教材/高中/数学/北师大版/必修·第一册/Page 107。
 
 - 该截图包括的**定义**：正数、 $\ne$ 、指数函数、 $=$ 、定义域、 $\text{R}$ 、值域、开区间、 $+\infty$ 、单调函数、实数、函数、对数函数、自变量、函数值、底数、定点、常用对数函数、无理数、自然常数 $e$ 、自然对数函数。
 - 该截图包括的**推理**（注意黑体字）：
