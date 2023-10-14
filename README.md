@@ -57,7 +57,7 @@ PS：如果某些文章的数学公式无法正常显示，你可以下载该文
    2. [初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/2-elementary-math.md)
    3. [人生模型](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/3-life-model.md)
    4. [目标模型](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/4-goal-model.md)
-   5. [数学与数学之外（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/5-math-and-beyond.md)
+   5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/5-math-and-beyond.md)
 3. 马克思主义哲学
    1. [唯物论（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/1-materialism.md)
    2. [两个特征（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/2-two-features.md)
