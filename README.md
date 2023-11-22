@@ -62,8 +62,8 @@ PS：如果某些文章的数学公式无法正常显示，你可以下载该文
    1. [唯物论](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/1-materialism.md)
    2. [两个特征](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/2-two-features.md)
    3. [三大规律](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/3-three-laws.md)
-   4. [五对范畴（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/4-five-contradictions.md)
-   5. [认识论（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/5-epistemology.md)
+   4. [五对范畴](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/4-five-contradictions.md)
+   5. [认识论](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/5-epistemology.md)
 4. 人际关系
    1. [三种层次（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/1-three-levels.md)
    2. [三种类别（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/2-three-types.md)
