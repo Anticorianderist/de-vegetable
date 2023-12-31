@@ -68,7 +68,7 @@ PS：如果某些文章的数学公式无法正常显示，你可以下载该文
    1. [三种层次](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/1-three-levels.md)
    2. [三种类别](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/2-three-types.md)
    3. [知所起](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/3-begin.md)
-   4. [离别（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/4-end.md)
+   4. [离别](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/4-end.md)
 5. 异性关系
    1. [底层模型（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
    2. [通用版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/5-heterosexual-relationship/2-universal-version.md)
