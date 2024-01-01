@@ -28,7 +28,7 @@
   - 我知道，你们这群鼠鼠的统战价值几乎为零，但**这本书会把你当人看**。
 - 在本书完结之前，你不妨点开文章的链接多多尝试。在这个遍布焦虑的时代里，我很难向大一新生证明“汝果欲学诗，工夫在诗外”。但是，如果跟着坏人或蠢人学，你这辈子就废了。
 - 在本书完结之前，你可以通过**邮件**（`bancroft.lau@gmail.com`）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
-- 本书已经支持`mdbook`，使用`cargo install mdbook mdbook-katex`安装`mdbook`及其LaTex渲染组件之后，使用`mdbook serve`即可在本地`:3000`端口打开本书。
+- 本书已经支持[`mdbook`](https://rust-lang.github.io/mdBook/)，在[安装Rust](https://www.rust-lang.org/tools/install)之后使用`cargo install mdbook mdbook-katex`安装`mdbook`及其LaTeX渲染组件，在本仓库的根目录之下运行`mdbook serve`即可在本地`:3000`端口打开本书。
 
 PS：如果某些文章的数学公式无法正常显示，你可以下载该文章，配合可以渲染“含LaTeX语法的Markdown文件”的编辑器（比如附带`Markdown All in One`和`markdownlint`的[`VS Code`](https://code.visualstudio.com/)、[`Typora`](https://typora.io/)）查看。
 
@@ -38,56 +38,56 @@ PS：如果某些文章的数学公式无法正常显示，你可以下载该文
 
 以下是本书的**目录**：
 
-[序：致和我相似的你](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-preface-to-you-like-me.md)
+[序：致和我相似的你](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-preface-to-you-like-me.md)
 
 上篇：伪教育
 
-1. [家庭教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-pseudo-educations/1-family-education.md)
-2. [应试教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-pseudo-educations/2-exam-oriented-education.md)
-3. [高等教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-pseudo-educations/3-higher-education.md)
-4. [社会教育](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/1-pseudo-educations/4-social-education.md)
+1. [家庭教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/1-family-education.md)
+2. [应试教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/2-exam-oriented-education.md)
+3. [高等教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/3-higher-education.md)
+4. [社会教育](https://github.com/Anticorianderist/de-vegetable/blob/main/src/1-pseudo-educations/4-social-education.md)
 
 下篇：自我教育
 
 1. 知行
-   1. [见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/1-knowing-your-life/1-knowing-the-world.md)
-   2. [见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/1-knowing-your-life/2-knowing-the-people.md)
-   3. [见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/1-knowing-your-life/3-knowing-yourself.md)
+   1. [见天地](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/1-knowing-the-world.md)
+   2. [见众生](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/2-knowing-the-people.md)
+   3. [见自己](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/1-knowing-your-life/3-knowing-yourself.md)
 2. 数学
-   1. [凡人皆需数学](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/1-everyone-needs-math.md)
-   2. [初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/2-elementary-math.md)
-   3. [人生模型](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/3-life-model.md)
-   4. [目标模型](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/4-goal-model.md)
-   5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/2-math/5-math-and-beyond.md)
+   1. [凡人皆需数学](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/1-everyone-needs-math.md)
+   2. [初等数学](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/2-elementary-math.md)
+   3. [人生模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/3-life-model.md)
+   4. [目标模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/4-goal-model.md)
+   5. [数学与数学之外](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/2-math/5-math-and-beyond.md)
 3. 马克思主义哲学
-   1. [唯物论](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/1-materialism.md)
-   2. [两个特征](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/2-two-features.md)
-   3. [三大规律](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/3-three-laws.md)
-   4. [五对范畴](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/4-five-contradictions.md)
-   5. [认识论](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/3-marxist-philosophy/5-epistemology.md)
+   1. [唯物论](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/1-materialism.md)
+   2. [两个特征](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/2-two-features.md)
+   3. [三大规律](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/3-three-laws.md)
+   4. [五对范畴](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/4-five-contradictions.md)
+   5. [认识论](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/3-marxist-philosophy/5-epistemology.md)
 4. 人际关系
-   1. [三种层次](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/1-three-levels.md)
-   2. [三种类别](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/2-three-types.md)
-   3. [知所起](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/3-begin.md)
-   4. [离别](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/4-interpersonal-relationship/4-end.md)
+   1. [三种层次](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/4-interpersonal-relationship/1-three-levels.md)
+   2. [三种类别](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/4-interpersonal-relationship/2-three-types.md)
+   3. [知所起](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/4-interpersonal-relationship/3-begin.md)
+   4. [离别](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/4-interpersonal-relationship/4-end.md)
 5. 异性关系
-   1. [底层模型（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
-   2. [通用版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/5-heterosexual-relationship/2-universal-version.md)
-   3. [女生版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/5-heterosexual-relationship/3-female-version.md)
-   4. [男生版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/5-heterosexual-relationship/4-male-version.md)
+   1. [底层模型（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
+   2. [通用版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/2-universal-version.md)
+   3. [女生版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/3-female-version.md)
+   4. [男生版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/4-male-version.md)
 6. 它山之石
-   1. [好奇心（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/6-characteristic-sugars/1-curiosity.md)
-   2. [自信心（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/6-characteristic-sugars/2-confidence.md)
-   3. [解耦合（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/6-characteristic-sugars/3-decomposition.md)
-   4. [取舍（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/6-characteristic-sugars/4-trade-off.md)
-   5. [美育（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/6-characteristic-sugars/5-aesthetic-education.md)
+   1. [好奇心（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/6-characteristic-sugars/1-curiosity.md)
+   2. [自信心（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/6-characteristic-sugars/2-confidence.md)
+   3. [解耦合（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/6-characteristic-sugars/3-decomposition.md)
+   4. [取舍（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/6-characteristic-sugars/4-trade-off.md)
+   5. [美育（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/6-characteristic-sugars/5-aesthetic-education.md)
 7. 信息素养
-   1. [这是最好的时代（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/7-information-literacy/1-this-is-the-best-era.md)
-   2. [极简信息论（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/7-information-literacy/2-the-very-simplified-information-theory.md)
-   3. [阅读理解（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/7-information-literacy/3-reading-comprehension.md)
-   4. [英语（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/7-information-literacy/4-english.md)
-   5. [像硅基生命一样思考（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-self-educations/7-information-literacy/5-thinking-like-silicon-based-life.md)
+   1. [这是最好的时代（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/7-information-literacy/1-this-is-the-best-era.md)
+   2. [极简信息论（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/7-information-literacy/2-the-very-simplified-information-theory.md)
+   3. [阅读理解（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/7-information-literacy/3-reading-comprehension.md)
+   4. [英语（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/7-information-literacy/4-english.md)
+   5. [像硅基生命一样思考（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/7-information-literacy/5-thinking-like-silicon-based-life.md)
 
-[后记：致和你相似的我（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/2-epilogue-to-me-like-you.md)
+[后记：致和你相似的我（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-epilogue-to-me-like-you.md)
 
-[致谢（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/1-src/3-acknowledgments.md)
+[致谢（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/3-acknowledgments.md)
