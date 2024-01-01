@@ -28,6 +28,7 @@
   - 我知道，你们这群鼠鼠的统战价值几乎为零，但**这本书会把你当人看**。
 - 在本书完结之前，你不妨点开文章的链接多多尝试。在这个遍布焦虑的时代里，我很难向大一新生证明“汝果欲学诗，工夫在诗外”。但是，如果跟着坏人或蠢人学，你这辈子就废了。
 - 在本书完结之前，你可以通过**邮件**（`bancroft.lau@gmail.com`）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
+- 本书已经支持`mdbook`，使用`cargo install mdbook mdbook-katex`安装`mdbook`及其LaTex渲染组件之后，使用`mdbook serve`即可在本地`:3000`端口打开本书。
 
 PS：如果某些文章的数学公式无法正常显示，你可以下载该文章，配合可以渲染“含LaTeX语法的Markdown文件”的编辑器（比如附带`Markdown All in One`和`markdownlint`的[`VS Code`](https://code.visualstudio.com/)、[`Typora`](https://typora.io/)）查看。
 
