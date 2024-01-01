@@ -41,26 +41,49 @@
 
 # 异性关系
 
-  -  [底层模型（未完成）](2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
-  -  [通用版（未完成）](2-self-educations/5-heterosexual-relationship/2-universal-version.md)
-  -  [女生版（未完成）](2-self-educations/5-heterosexual-relationship/3-female-version.md)
-  -  [男生版（未完成）](2-self-educations/5-heterosexual-relationship/4-male-version.md)
+  -  [底层模型]()
+  -  [通用版]()
+  -  [女生版]()
+  -  [男生版]()
 
 # 它山之石
 
-  -  [好奇心（未完成）](2-self-educations/6-characteristic-sugars/1-curiosity.md)
-  -  [自信心（未完成）](2-self-educations/6-characteristic-sugars/2-confidence.md)
-  -  [解耦合（未完成）](2-self-educations/6-characteristic-sugars/3-decomposition.md)
-  -  [取舍（未完成）](2-self-educations/6-characteristic-sugars/4-trade-off.md)
-  -  [美育（未完成）](2-self-educations/6-characteristic-sugars/5-aesthetic-education.md)
+  -  [好奇心]()
+  -  [自信心]()
+  -  [解耦合]()
+  -  [取舍]()
+  -  [美育]()
 
 # 信息素养
 
-  -  [这是最好的时代（未完成）](2-self-educations/7-information-literacy/1-this-is-the-best-era.md)
-  -  [极简信息论（未完成）](2-self-educations/7-information-literacy/2-the-very-simplified-information-theory.md)
-  -  [阅读理解（未完成）](2-self-educations/7-information-literacy/3-reading-comprehension.md)
-  -  [英语（未完成）](2-self-educations/7-information-literacy/4-english.md)
-  -  [像硅基生命一样思考（未完成）](2-self-educations/7-information-literacy/5-thinking-like-silicon-based-life.md)
+  -  [这是最好的时代]()
+  -  [极简信息论]()
+  -  [阅读理解]()
+  -  [英语]()
+  -  [像硅基生命一样思考]()
+
+<!-- # 异性关系
+
+  -  [底层模型](2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
+  -  [通用版](2-self-educations/5-heterosexual-relationship/2-universal-version.md)
+  -  [女生版](2-self-educations/5-heterosexual-relationship/3-female-version.md)
+  -  [男生版](2-self-educations/5-heterosexual-relationship/4-male-version.md)
+
+# 它山之石
+
+  -  [好奇心](2-self-educations/6-characteristic-sugars/1-curiosity.md)
+  -  [自信心](2-self-educations/6-characteristic-sugars/2-confidence.md)
+  -  [解耦合](2-self-educations/6-characteristic-sugars/3-decomposition.md)
+  -  [取舍](2-self-educations/6-characteristic-sugars/4-trade-off.md)
+  -  [美育](2-self-educations/6-characteristic-sugars/5-aesthetic-education.md)
+
+# 信息素养
+
+  -  [这是最好的时代](2-self-educations/7-information-literacy/1-this-is-the-best-era.md)
+  -  [极简信息论](2-self-educations/7-information-literacy/2-the-very-simplified-information-theory.md)
+  -  [阅读理解](2-self-educations/7-information-literacy/3-reading-comprehension.md)
+  -  [英语](2-self-educations/7-information-literacy/4-english.md)
+  -  [像硅基生命一样思考](2-self-educations/7-information-literacy/5-thinking-like-silicon-based-life.md) -->
 
 ---
 
