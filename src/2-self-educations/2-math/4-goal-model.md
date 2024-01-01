@@ -2,11 +2,11 @@
 
 ## 0x01 引例：时间管理
 
-![hidden-man.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/hidden-man.jpg)
+![hidden-man.jpg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/hidden-man.jpg)
 
 ### 1. 目标 to 任务
 
-![target2tasks.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/target2tasks.jpg)
+![target2tasks.jpg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/target2tasks.jpg)
 
 我的日记本以年为单位。首先，我每年会设立一些**目标**，时间跨度在半年到一年之间。在设立目标之后，将每个目标分解为一系列可直接执行的**任务**，任务的执行时间从0.5h到1h不等。随着实践的深入，不断地调整目标和任务。等到所有任务完成了，目标也就实现了。
 
@@ -14,21 +14,21 @@
 
 ### 2. To Do List
 
-![to-do.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/to-do.png)
+![to-do.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/to-do.png)
 
 日记的第1部分是`To Do List`。你可以把所有已确定deadline的任务放在这里，一来，作为备忘录；二来，适当地给自己一些压力；三来，将已完成的任务从`To Do List`中移除可以带来正反馈和成就感。有一个不得不提的小建议：**写好模板**。在`To Do List`新增任务的时候，在模板里添加；在完成任务之后，在模板里删除。理想的状态是“每天起床，复制模板；从`To Do List`中选择任务，填满整块时间；执行，在完成任务后将其从模板中删除；每天的碎片时间或每周特定的整块时间，补充`To Do List`。
 
-![dairy-template.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/dairy-template.jpg)
+![dairy-template.jpg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/dairy-template.jpg)
 
 ### 3. 记录
 
-![record.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/record.jpg)
+![record.jpg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/record.jpg)
 
 日记的第2部分是“计划＋记录”。从`To Do List`中选取任务是为计划；记录实际的执行情况（<n/m>：m表示任务的计划时长为m小时；n表示任务的已执行时长为n小时）。
 
 ### 4. 日省吾身
 
-![introspection.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/introspection.jpg)
+![introspection.jpg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/introspection.jpg)
 
 日省吾身是“谋一日以谋一生”的核心所在。第一，我只跟自己卷，别人强不强可以影响我的判断，但绝对不影响我的心态。第二，进步 = 时间 × 效率，而实力和进步（自变量）的函数关系近似于对数函数，通过自律和高效成为优秀的人只是时间问题。
 
@@ -40,13 +40,13 @@
 
 ### 5. 涓滴体验
 
-![experiences.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/experiences.png)
+![experiences.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/experiences.png)
 
 每天花一些时间做自己喜欢的事情，这是时间管理的意义所在。涓滴体验可以源于爱好，也可以源于意料之外的小确幸，还可以是发自内心的悲伤和喜悦。如果说其它时间是为了谋生，那么涓滴体验就是为了生活。以后重温来时路，这个部分将会成为赛博时间囊。
 
 ### 6. 总结
 
-![target2tasks.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/target2tasks.jpg)
+![target2tasks.jpg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/target2tasks.jpg)
 
 所谓的总结（图中未显示的第3部分），即复盘。无论目标成功或失败，分析结果可以纠正自己错误的认知。总结的本质在于提高“做成一件事”的能力。把任何目标都当作相同的一件事，目标 $\rightarrow$ 分析  $\rightarrow$ 总结。久而久之，你终将求仁得仁。
 
@@ -244,7 +244,7 @@ $$
 
 这涉及工科生不一定学的《数值计算》。它融合了《微积分》的敛散性、《线性代数》的“数据结构”（向量和矩阵）和《概率论与数理统计》的统计规律性。因此，本节不展开《数值计算》的术语。以第一节的时间管理为例：
 
-![anticorianderist-evernote-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/anticorianderist-evernote-excerpt.png)
+![anticorianderist-evernote-excerpt.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/anticorianderist-evernote-excerpt.png)
 
 从这张图，你们可以得到哪些信息？
 
@@ -264,27 +264,27 @@ $$
 
 2019-01-01：第1篇日记
 
-![anticorianderist-dairy-2019-01-01-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/anticorianderist-dairy-2019-01-01-excerpt.png)
+![anticorianderist-dairy-2019-01-01-excerpt.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/anticorianderist-dairy-2019-01-01-excerpt.png)
 
 2019-03-04：第1篇考研日记
 
-![anticorianderist-dairy-2019-03-04-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/anticorianderist-dairy-2019-03-04-excerpt.png)
+![anticorianderist-dairy-2019-03-04-excerpt.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/anticorianderist-dairy-2019-03-04-excerpt.png)
 
 2019-05-01：奇怪的插曲
 
-![anticorianderist-dairy-2019-05-01-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/anticorianderist-dairy-2019-05-01-excerpt.png)
+![anticorianderist-dairy-2019-05-01-excerpt.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/anticorianderist-dairy-2019-05-01-excerpt.png)
 
 2019-06-20：出现了，计划！
 
-![anticorianderist-dairy-2019-06-20.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/anticorianderist-dairy-2019-06-20.png)
+![anticorianderist-dairy-2019-06-20.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/anticorianderist-dairy-2019-06-20.png)
 
 再看看考研二战期间的顶级生产力：
 
-![anticorianderist-dairy-2020-10-07.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/anticorianderist-dairy-2020-10-07.png)
+![anticorianderist-dairy-2020-10-07.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/anticorianderist-dairy-2020-10-07.png)
 
-![anticorianderist-dairy-2020-10-24.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/anticorianderist-dairy-2020-10-24.png)
+![anticorianderist-dairy-2020-10-24.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/anticorianderist-dairy-2020-10-24.png)
 
-![anticorianderist-dairy-2020-12-24.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/anticorianderist-dairy-2020-12-24.png)
+![anticorianderist-dairy-2020-12-24.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/anticorianderist-dairy-2020-12-24.png)
 
 最后才是第一节的形态。
 

@@ -69,7 +69,7 @@ ta们每一步都学得非常好，既不会搞错 $\pi$ 是不是字母，也�
 
 举个例子：
 
-![log-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/log-excerpt.png)
+![log-excerpt.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/log-excerpt.png)
 
 > 截图来自于国家中小学智慧教育平台：教材/高中/数学/北师大版/必修·第一册/Page 107。
 
@@ -182,7 +182,7 @@ $$
 
 ### 1. 小学数学
 
-![math-1-up-contents-excerpt.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/math-1-up-contents-excerpt.png)
+![math-1-up-contents-excerpt.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/math-1-up-contents-excerpt.png)
 
 - 数学就在我身边
   - 知识点：数字。

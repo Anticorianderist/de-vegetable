@@ -26,7 +26,7 @@ type classify(people 张三)
 
 ### 1. 平庸和平凡
 
-![maslow-s-hierarchy-of-needs.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/maslow-s-hierarchy-of-needs.jpg)
+![maslow-s-hierarchy-of-needs.jpg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/maslow-s-hierarchy-of-needs.jpg)
 
 在本书的定义中，**平庸**：不是为了自我实现而活着。
 

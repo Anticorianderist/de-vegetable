@@ -112,7 +112,7 @@
 
 ### 2. 正态分布
 
-![norm.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/norm.png)
+![norm.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/norm.png)
 
 横坐标可以是任何人事物。例如：
 
@@ -139,11 +139,11 @@
 
 ### 5. 终身学习
 
-![calculus.jpeg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/calculus.jpeg)
+![calculus.jpeg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/calculus.jpeg)
 
 ### 6. 学习曲线
 
-![log-curve.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/log-curve.png)
+![log-curve.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/log-curve.png)
 
 - 如果理解了**学习曲线**往往是对数型的，你是否还会为起步晚而焦虑呢？
 - 如果理解了沿着**梯度**的方向增长最快，你是否还会执着于“每日一题”的日积月累呢？
