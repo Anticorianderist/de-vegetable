@@ -1,0 +1,9 @@
+[book]
+authors = ["Anti"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "新生：从伪教育到自我教育"
+
+[preprocessor.katex]
+after = ["links"]
