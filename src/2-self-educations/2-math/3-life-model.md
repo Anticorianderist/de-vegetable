@@ -2,7 +2,7 @@
 
 如果看完了[《职业探索与选择》](https://www.xuetangx.com/course/THU07111000433/14768573)，你也许对“生涯彩虹图”有印象。
 
-![life-career-rainbow.jpg](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/life-career-rainbow.jpg)
+![life-career-rainbow.jpg](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/life-career-rainbow.jpg)
 
 这张图片的要素非常多：
 
@@ -18,7 +18,7 @@
 
 既然人生有模型，能不能列几个人生模型出来看看？
 
-![maximum.png](https://github.com/Anticorianderist/de-vegetable/blob/main/2-spt/figures/maximum.png)
+![maximum.png](https://raw.githubusercontent.com/Anticorianderist/de-vegetable/main/assets/figures/maximum.png)
 
 ### 1. [贪心算法](https://en.wikipedia.org/wiki/Greedy_algorithm)
 
