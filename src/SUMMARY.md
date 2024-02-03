@@ -41,7 +41,7 @@
 
 # 异性关系
 
-  -  [底层模型]()
+  -  [底层模型](2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
   -  [通用版]()
   -  [女生版]()
   -  [男生版]()
