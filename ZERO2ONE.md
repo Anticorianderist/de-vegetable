@@ -129,5 +129,10 @@
 - 2023-12-25：写完了《下篇：自我教育/4 人际关系/3 知所起》。
 - 2023-12-31：写完了《下篇：自我教育/4 人际关系/4 离别》。
 - 2024-02-03：写完了《下篇：自我教育/5 异性关系/1 底层模型》。
+- 2024-02-16：写完了《下篇：自我教育/5 异性关系/2 通用版》。
 
 ## 0x03 From Zero to Zero
+
+- 2024-02-11：写完《下篇：自我教育/5 异性关系/2 通用版》。
+  - Cause: the plan was disrupted by the Spring Festival schedule.
+  - Solution: take events into consideration to make more granular plan.

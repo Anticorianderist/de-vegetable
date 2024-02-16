@@ -69,7 +69,7 @@
    4. [离别](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/4-interpersonal-relationship/4-end.md)
 5. 异性关系
    1. [底层模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
-   2. [通用版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/2-universal-version.md)
+   2. [通用版](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/2-universal-version.md)
    3. [女生版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/3-female-version.md)
    4. [男生版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/4-male-version.md)
 6. 它山之石

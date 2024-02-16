@@ -42,7 +42,7 @@
 # 异性关系
 
   -  [底层模型](2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
-  -  [通用版]()
+  -  [通用版](2-self-educations/5-heterosexual-relationship/2-universal-version.md)
   -  [女生版]()
   -  [男生版]()
 
