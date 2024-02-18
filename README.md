@@ -70,7 +70,7 @@
 5. 异性关系
    1. [底层模型](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
    2. [通用版](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/2-universal-version.md)
-   3. [女生版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/3-female-version.md)
+   3. [女生版](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/3-female-version.md)
    4. [男生版（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/5-heterosexual-relationship/4-male-version.md)
 6. 它山之石
    1. [好奇心（未完成）](https://github.com/Anticorianderist/de-vegetable/blob/main/src/2-self-educations/6-characteristic-sugars/1-curiosity.md)

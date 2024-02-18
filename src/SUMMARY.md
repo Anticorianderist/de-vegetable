@@ -43,7 +43,7 @@
 
   -  [底层模型](2-self-educations/5-heterosexual-relationship/1-fundamental-model.md)
   -  [通用版](2-self-educations/5-heterosexual-relationship/2-universal-version.md)
-  -  [女生版]()
+  -  [女生版](2-self-educations/5-heterosexual-relationship/3-female-version.md)
   -  [男生版]()
 
 # 它山之石
