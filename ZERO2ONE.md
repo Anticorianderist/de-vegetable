@@ -2,7 +2,7 @@
 
 ## 0x01 Goal
 
-在2024-06-30T23:59:59+08:00之前，在GitHub上发布《新生：从伪教育到自我教育》的PDF版。
+在2024-12-31T23:59:59+08:00之前，在GitHub上发布《新生：从伪教育到自我教育》第1版的PDF。
 
 ## 0x02 From One to Zero
 
@@ -137,3 +137,6 @@
 - 2024-02-11：写完《下篇：自我教育/5 异性关系/2 通用版》。
   - Cause: the plan was disrupted by the Spring Festival schedule.
   - Solution: take events into consideration to make more granular plan.
+- 2024-02-25：写完《下篇：自我教育/5 异性关系/4 男生版》。
+  - Cause: I was in a transitional stage of my life, which greatly affects the continuity between articles. This made it difficult for me to get into the mood to write.
+  - Solution: in this new stage of life, keep investing one day a week in this repository.

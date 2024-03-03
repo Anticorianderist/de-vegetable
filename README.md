@@ -20,14 +20,13 @@
 
 本书的**使用说明**如下：
 
-- 本书算是一个还没有彻底失败的**老做题家**送给所有初入大学的**小做题人**的礼物。至于效用，我不想夸大海口，也不想和百无一用甚至虚伪的垃圾比烂。我可以保证以下几点：
-  - **绝对真诚**：为了被更好地传播，本书的部分内容“知有不言，言有不尽”，但她有这个世界少有的一份绝对真诚。
+- 本书是一个还没有彻底失败的**老做题家**送给所有初入大学的**小做题人**的礼物。它可以做到以下几点：
+  - **绝对真诚**：为了被正常地传播，本书的部分内容“知有不言，言有不尽”，但她有这个世界少有的一份绝对真诚。
   - **不容易**：你可以对比一下《序：致和我相似的你》和《后记：致和你相似的我》，对号入座。
-  - 我知道，你们这群鼠鼠的统战价值几乎为零，但**这本书会把你当人看**。
-- 在本书完结之前，你不妨点开文章的链接多多尝试。在这个遍布焦虑的时代中，我很难向大一新生证明“汝果欲学诗，工夫在诗外”。但是，如果跟着坏人或蠢人学，你这辈子就废了。
-- 在本书完结之前，你可以通过**邮件**（`bancroft.lau@gmail.com`）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
-- 本书已经支持[`mdbook`](https://rust-lang.github.io/mdBook/)。在[安装Rust](https://www.rust-lang.org/tools/install)之后使用`cargo install mdbook mdbook-katex`安装`mdbook`及其LaTeX渲染组件；在本仓库的根目录之下运行`mdbook serve`即可在本地的`3000`端口（`http://localhost:3000/`）打开本书。
-- 如果某些文章的数学公式无法正常显示，你可以下载该文章，配合可以渲染“含LaTeX语法的Markdown文件”的编辑器（比如附带`Markdown All in One`和`markdownlint`的[`VS Code`](https://code.visualstudio.com/)、[`Typora`](https://typora.io/)）查看。
+  - 我知道，你这种鼠鼠的统战价值几乎为零，但**这本书会把你当人看**。
+- 在本书完结之前，你可以通过**邮件**（`bancroft.lau@gmail.com`）或本仓库的**Issues**向我发送关于本书的任何反馈（疑问、建议等）。
+- 如果某些文章的数学公式无法正常地显示，你可以下载该文章，配合可以渲染“含LaTeX语法的Markdown文件”的编辑器（比如附带`Markdown All in One`和`markdownlint`的[`VS Code`](https://code.visualstudio.com/)、[`Typora`](https://typora.io/)）查看。
+- 本书已经支持[`mdBook`](https://rust-lang.github.io/mdBook/)。在[安装Rust](https://www.rust-lang.org/tools/install)之后使用`cargo install mdbook mdbook-katex`安装`mdBook`及其LaTeX渲染组件；在本仓库的根目录之下运行`mdbook serve`即可在本地的`3000`端口（`http://localhost:3000/`）上阅读本书。
 
 若《新生：从伪教育到自我教育》对你有所帮助，请继续传递善意（**点击右上角的Star且向其ta人安利**是传递善意最基本的方式）。
 
