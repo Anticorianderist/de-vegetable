@@ -135,5 +135,6 @@
 - [《万历十五年》](https://book.douban.com/subject/36295436/)
 - [余世存：失格](https://youtu.be/kmDOqPlJ4XE)
 - [资中筠：谈谈爱国](https://youtu.be/n8J0t7oKHTQ)
+- [Sir Karl Raimund Popper](https://en.wikipedia.org/wiki/Karl_Popper)
 
 如果你读书极少，那么我建议你先读完[《明朝那些事儿》](https://book.douban.com/subject/35796182/)。
