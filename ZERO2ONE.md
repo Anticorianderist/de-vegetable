@@ -136,6 +136,7 @@
 - 2024-02-16：写完了《2-5-2 通用版》。
 - 2024-02-18：写完了《2-5-3 女生版》。
 - 2024-03-31：重构。
+- 2024-04-27：重构。
 
 ## 0x03 From Zero to Zero
 
@@ -143,5 +144,5 @@
   - CAUSE: the plan was disrupted by the Spring Festival schedule.
   - SOLUTION: take events into consideration to make more granular plan.
 - 2024-02-25：写完《2-5-4 男生版》。
-  - CAUSE: I was in a transitional stage of my life, which greatly affects the continuity between articles. This made it difficult for me to get into the mood to write. Besides, I would rather write a short gynophobia story than make some suggestions about getting out of singlehood because of the terrible situation.
+  - CAUSE: I was in a transitional stage of my life, which greatly affects the continuity between articles. This made it difficult for me to get into the mood to write. Besides, I would rather write a short gynophobia story than make some suggestions about getting out of singlehood because of the terrible heterosexual relationship environment.
   - SOLUTION: in this new stage of life, keep investing one day a week in this repository. For *2-5-4 male version*, I may write some content that is not oriented toward getting out of singlehood.

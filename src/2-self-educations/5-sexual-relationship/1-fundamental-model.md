@@ -94,7 +94,7 @@
 - 婚姻：[Revolutionary Road (2008)](https://movie.douban.com/subject/2037012/)
 - 时间的力量：[花束みたいな恋をした (2021)](https://movie.douban.com/subject/34874432/)
 - 恋爱脑：[Sleepless in Seattle (1993)](https://movie.douban.com/subject/1298128/)
-- 好聚好散：[La La Land (2016)](https://movie.douban.com/subject/25934014/)
+- 好聚好散：[La La Land (2016)](https://movie.douban.com/subject/25934014/). Even if we can't be together in the end, I'm glad that you were a part of my life.
 - 青梅竹马：[Flipped (2010)](https://movie.douban.com/subject/3319755/)
 
 还有很多，比如[夏洛蒂·勃朗特《简·爱》](https://book.douban.com/subject/35721638/)、[The Notebook (2004)](https://movie.douban.com/subject/1309163/)、[小时代 (2013)](https://movie.douban.com/subject/20376577/)（我不是故意放在这些正常的艺术作品里黑它，只是它确实代表了一种常见的价值观）。
